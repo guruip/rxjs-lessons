@@ -6,6 +6,7 @@ import { environment } from './environments/environment';
 
 import './rxjs-lessons';
 import './canvas';
+import './rxjs-subject';
 
 
 if (environment.production) {
